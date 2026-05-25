@@ -1,0 +1,43 @@
+# .gitignore – ملفات لا تُرفع إلى GitHub
+
+# ⚠️ الأهم: لا ترفع هذه الملفات أبداً
+.env
+*.db
+*.db-shm
+*.db-wal
+
+# الأعلام المؤقتة (كبيرة ومولّدة تلقائياً)
+assets/flags_cache/
+
+# ملفات Python المؤقتة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# البيئة الافتراضية
+venv/
+env/
+.venv/
+
+# ملفات النسخ الاحتياطي
+*.bak
+*.backup
+backups/
+
+# ملفات السجل
+*.log
+logs/
+
+# إعدادات المحرر
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store

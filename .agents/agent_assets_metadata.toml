@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "7vMCSkZ1ii6no6Lb_vbTK"
+uri = "file://assets/map_preview.jpg"
+type = "image"
+title = "معاينة الخريطة الجديدة"
+
+[[outputs]]
+id = "nHKKZVA_9sAUSRl4H6gGZ"
+uri = "file://age_of_nations_bot.zip"
+type = "unspecified"
+title = "عصر الأمم – ملفات البوت كاملة"

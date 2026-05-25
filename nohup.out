@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/storage/emulated/0/Download/age_of_nations/main.py", line 16, in <module>
+    from handlers.map import map_handler, map_callback, status_handler
+  File "/storage/emulated/0/Download/age_of_nations/handlers/map.py", line 4, in <module>
+    from map_renderer import render_province_map
+  File "/storage/emulated/0/Download/age_of_nations/map_renderer.py", line 4, in <module>
+    import arabic_reshaper
+ModuleNotFoundError: No module named 'arabic_reshaper'
+Traceback (most recent call last):
+  File "/storage/emulated/0/Download/age_of_nations/main.py", line 16, in <module>
+    from handlers.map import map_handler, map_callback, status_handler
+  File "/storage/emulated/0/Download/age_of_nations/handlers/map.py", line 4, in <module>
+    from map_renderer import render_province_map
+  File "/storage/emulated/0/Download/age_of_nations/map_renderer.py", line 4, in <module>
+    import arabic_reshaper
+ModuleNotFoundError: No module named 'arabic_reshaper'
